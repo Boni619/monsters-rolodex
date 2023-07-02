@@ -1,5 +1,5 @@
 # monsters-rolodex-new
-URL : https://boni619.github.io/monsters-rolodex-new/
+URL : https://boni619.github.io/monsters-rolodex/
 
 
-![myfile](https://raw.githubusercontent.com/Boni619/monsters-rolodex-new/gh-pages/demo.gif)
+![myfile](https://raw.githubusercontent.com/Boni619/monsters-rolodex/main/demo.gif)
